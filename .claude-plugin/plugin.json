@@ -4,8 +4,12 @@
   "version": "1.0.0",
   "description": "Log meals and water to Vivara and review your nutrition from a conversation, using your saved foods, Vivara's food database and your Vivara goals.",
   "author": { "name": "Vivara", "url": "https://get.vivaralifestyle.com" },
-  "homepage": "https://mcp.vivaralifestyle.com/",
+  "homepage": "https://get.vivaralifestyle.com",
+  "repository": "https://github.com/JoaoLucasMelo/vivara-claude-plugin",
+  "documentationUrl": "https://mcp.vivaralifestyle.com/",
+  "supportUrl": "mailto:john@vivaralifestyle.com",
   "privacyPolicyUrl": "https://sites.google.com/view/vivara-app-privacy/home",
+  "termsOfServiceUrl": "https://sites.google.com/view/vivara-app-privacy/terms-of-service",
   "license": "MIT",
   "keywords": ["nutrition", "food diary", "calories", "macros", "water", "fitness"]
 }
