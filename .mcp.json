@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vivara": {
+      "type": "http",
+      "url": "https://mcp.vivaralifestyle.com/mcp"
+    }
+  }
+}
